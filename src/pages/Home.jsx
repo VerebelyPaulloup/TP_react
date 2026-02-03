@@ -18,9 +18,9 @@ function Home() {
 
   return (
     <>
-      <h1>
+      {/* <h1>
         <img src={logo} alt="PokeLogo" style={{ width: '200px' }} />
-      </h1>
+      </h1> */}
       <main className="lmj-layout-inner">
         <Sidebar />
         <div className="pokemon-list">
